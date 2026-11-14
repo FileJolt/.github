@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/filejolt-brand-tile.svg" alt="FileJolt official emblem" width="112" height="112">
+<img src="assets/filejolt-ecosystem.png" alt="FileJolt ecosystem diagram featuring FileJolt connected to NexLoad and ReelShift" width="850">
 
 # FileJolt
 
@@ -36,6 +36,20 @@ Each application has its own identity and purpose. FileJolt brings them together
 **Portable ZIPs** — Download individual portable builds and run the software from their extracted folders.
 
 For official download links and installation guidance, visit the **[FileJolt Downloads page](https://filejolt.github.io/downloads/)**.
+
+## Software Signing & Windows Security
+
+> **Important: Our Windows applications are currently not digitally signed.**
+>
+> This applies to all three FileJolt applications: **FileJolt Installer**, **NexLoad**, and **ReelShift**.
+
+A digital signature allows Windows to verify a software publisher's identity and helps show whether a signed file has changed since it was signed. Because these applications are **unsigned**, Windows cannot verify their publisher through a code-signing certificate.
+
+As a result, depending on your Windows settings and the reputation of the downloaded file, you may see a **“Unknown publisher”** message or a **Microsoft Defender SmartScreen** warning when installing or launching them.
+
+**An unsigned application is not necessarily unsafe.** However, an absent signature also means you should **not treat the application as verified or automatically trustworthy**.
+
+For your security, download only from the [official FileJolt website](https://filejolt.github.io/) or the official project repositories and releases linked on this page. Keep Microsoft Defender and other security protections enabled, and do not run a file if you cannot confirm where it came from.
 
 ## Explore FileJolt
 
