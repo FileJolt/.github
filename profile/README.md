@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/filejolt-ecosystem.png" alt="FileJolt ecosystem diagram featuring FileJolt connected to NexLoad and ReelShift" width="850">
+<img src="assets/filejolt-ecosystem.png" alt="FileJolt ecosystem diagram featuring FileJolt connected to NexLoad and ReelShift" width="560">
 
 # FileJolt
 
